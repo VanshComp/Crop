@@ -1,0 +1,7 @@
+streamlit==1.23.0
+pandas==2.1.0
+numpy==1.24.2
+pickle5==0.0.12  # To handle pickle warnings
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.3.0
