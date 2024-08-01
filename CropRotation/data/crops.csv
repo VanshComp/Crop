@@ -1,0 +1,8 @@
+CropID,CropName,PlantingMonth,HarvestingMonth,WaterRequirement,BotanicFamily,IsLegume,Demand,ExpectedProfit
+1,Barley Spring,3,7,Medium,Gramineae,No,High,1500
+2,Cotton,4,10,High,Malvaceae,No,Medium,2000
+3,Maize,5,9,Medium,Gramineae,No,High,1800
+4,Sunflower,4,8,Low,Asteraceae,No,Medium,1700
+5,Wheat Winter,10,3,Medium,Gramineae,No,High,1600
+6,Rice,6,11,High,Poaceae,No,High,2200
+7,Soybean,5,10,Medium,Leguminosae,Yes,High,1900
